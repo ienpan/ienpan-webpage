@@ -1,5 +1,5 @@
 ---
 title: "ienpan-webpage"
-date: 2025-M04-25
+date: 2025-04-25
 ---
 
